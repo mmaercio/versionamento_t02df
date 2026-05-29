@@ -3,6 +3,9 @@
 <BODY>
 <H1> GIT </H1>
 
+<H1> VERSIONAMENTO </H1>
+
+
 Comandos utilizados no versionamento:
 
 git status
